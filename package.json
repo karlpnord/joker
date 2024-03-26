@@ -16,7 +16,7 @@
     "npm",
     "git"
   ],
-  "author": "Karl Nordgaard",
+  "author": "Karl Nordgaard <karnor50544@stud.noroff.no>",
   "license": "UNLICENSED",
   "bugs": {
     "url": "https://github.com/karlpnord/joker/issues"
