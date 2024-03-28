@@ -1,0 +1,33 @@
+{
+  "name": "joker",
+  "version": "0.1.0",
+  "description": "Setting up my working environment",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/js/joker.js",
+    "format": "prettier -w src/js/joker.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/karlpnord/joker.git"
+  },
+  "keywords": [
+    "workflow",
+    "environment",
+    "npm",
+    "git"
+  ],
+  "author": "Karl Nordgaard <karnor50544@stud.noroff.no>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/karlpnord/joker/issues"
+  },
+  "homepage": "https://github.com/karlpnord/joker#readme",
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  },
+  "dependencies": {
+    "give-me-a-joke": "^0.5.1"
+  }
+}
